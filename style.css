@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital@1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#title{
+    text-align: center;
+    padding-top: 70px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#tagline{
+    font-size: larger;
+    font-family: 'Mukta', sans-serif;
+    padding-top: 10px;
+    text-align: center;
+}
+
+#intro{
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    font-size: larger;
+}
+
+table{
+    border: 2px solid grey;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group input {
+    padding: 4px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.form-group button {
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.form-group button:hover {
+    background-color: #0056b3;
+}
+
+h2{
+    margin:20px;
+}
+
+.center{
+    margin:auto;
+    width:50%;
+}
+
+.div2{
+    text-align: center;
+}
